@@ -1,2 +1,7 @@
 # bot-discord-sorter-ai
-saya ingin membuat bot discord yang mengguanak ai untuk mengklasifikasikan sampah sampah dan memberikan solusi untuk cara mengolahnya
+bot ini dapat menhklasifikasikan sampah lewat attachment gambar
+by:sulthon
+proyek ini dibuat agar orang orang tahu cara memilah sampah
+fungsi:untuk membantu orang memilah sampah
+fitur:dapat mengklasifikasikan sampah
+
